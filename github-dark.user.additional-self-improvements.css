@@ -1,0 +1,22 @@
+.text-gray-dark.mr-2,
+.link-gray-dark.v-align-middle.no-underline.h4.js-navigation-open,
+.js-issue-title.css-truncate.css-truncate-target.link-gray-dark,
+.link-gray-dark
+{
+    color: #bebebe !important;
+}
+.file-info.link-gray-dark,
+.pl-s
+{
+    color: #0366d6 !important;
+}
+.review-thread-reply .bg-white.p-2.mt-2.ml-n3.mb-n2.border-top {
+    background-color: #181818 !important;
+    border-top-color: #181818 !important;
+}
+.pl-smi {
+    color: #005cc5 !important;
+}
+.markdown-body pre {
+    background-color: #121212 !important;
+}

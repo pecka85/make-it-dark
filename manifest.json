@@ -1,0 +1,23 @@
+{
+  "name": "Make it dark",
+  "version": "1.0",
+  "description": "Adds dark themed CSS to selected pages",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/*"
+      ],
+      "css": [
+        "github-dark.user.additional-self-improvements.css",
+        "github-dark.user.css"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "images/iconfinder_death_star_explode_star_wars_3151598_16x16.png",
+    "32": "images/iconfinder_death_star_explode_star_wars_3151598_32x32.png",
+    "48": "images/iconfinder_death_star_explode_star_wars_3151598_48x48.png",
+    "128": "images/iconfinder_death_star_explode_star_wars_3151598_128x128.png"
+  }
+}
