@@ -20,3 +20,6 @@
 .markdown-body pre {
     background-color: #121212 !important;
 }
+table.files td.icon .octicon-file-directory {
+    color: #2f6280 !important;
+}
