@@ -1,12 +1,15 @@
 .text-gray-dark.mr-2,
 .link-gray-dark.v-align-middle.no-underline.h4.js-navigation-open,
 .js-issue-title.css-truncate.css-truncate-target.link-gray-dark,
+.file-info .link-gray-dark,
 .link-gray-dark
 {
     color: #bebebe !important;
 }
 .file-info.link-gray-dark,
-.pl-s
+.repository-content .link-gray-dark,
+.pl-s,
+.pl-pds
 {
     color: #0366d6 !important;
 }
